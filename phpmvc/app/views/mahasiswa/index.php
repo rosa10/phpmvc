@@ -66,7 +66,7 @@
           </div>
 
           <div class="form-group">
-            <label for="nrp">NRP</label>
+            <label for="nrp">NIM</label>
             <input type="number" class="form-control" id="nrp" name="nrp" autocomplete="off">
           </div>
 
